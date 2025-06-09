@@ -1,0 +1,28 @@
+# Core App
+streamlit
+python-dotenv
+
+# DICOM & Medical Imaging
+pydicom
+SimpleITK
+
+# Image Processing
+opencv-python-headless
+pillow
+scikit-image
+numpy
+
+# PDF Generation
+fpdf
+
+# Google Gemini SDK
+google-generativeai
+
+# YOLO Model Inference (assumes YOLOv8 or ultralytics)
+ultralytics
+
+# (Optional) for progress bars and parallel processing (if you keep your parallel batch script)
+tqdm
+PyWavelets
+
+# Use latest versions unless compatibility issues arise
